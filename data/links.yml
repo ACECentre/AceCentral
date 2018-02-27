@@ -89,6 +89,11 @@ tiles:
   url: 'https://www.liberator.co.uk'
   img: 'https://www.liberator.co.uk/skin/frontend/default/liberator/images/_website/logo.png'
   tags: ['aac']
+- 
+  name: 'Dad in a shed'
+  url: 'http://www.dadinashed.com'
+  img: 'http://www.dadinashed.com/wp-content/uploads/pandora/dias_logo_small%20%282%29.png'
+  tags: ['aac']
 
 
 
