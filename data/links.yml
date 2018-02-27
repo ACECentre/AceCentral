@@ -5,6 +5,12 @@ tiles:
   img: 'logos/handbook.png'
   bg_color: '#FFFFFF'
   tags: ['favorite', 'resources']
+  
+-
+  name: 'Missing something? Add it here'
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSffthJh3CbLou2agZ45dk7m70k_aB1RwBZbpJdi4Lfffx4XcQ/viewform?usp=sf_link'
+  img: 'logos/question.jpg'
+  tags: ['favorite','forms']  
 -
   name: 'Diigo - Bookmarks'
   url: 'http://diigo.com/user/acecentre'
@@ -24,10 +30,15 @@ tiles:
   name: 'facebook'
   url: 'http://facebook.com/AceCentre.uk/'
   img: 'logos/facebook.svg'
-  bg_color: '#005483'
+  bg_color: '#2E4687'
   txt_color: '#ffffff'
   tags: ['social-media']
 
+-
+  name: 'LinkedIn'
+  url: 'https://www.linkedin.com/company/79041/'
+  img: 'logos/linkedin.png'
+  tags: ['social-media']
 -
   name: 'Library Thing'
   url: 'http://www.librarything.com/catalog/ace-centre'
@@ -48,5 +59,14 @@ tiles:
   img: 'logos/slack.png'
   bg_color: '#FFFFFF'
   tags: ['favorite','projects']
+
+- 
+  name: 'SpeakBook'
+  url: 'http://speakbook.acecentre.net'
+  img: 'https://camo.githubusercontent.com/b1d4f6537be7c41053174bedce693707dd863387/68747470733a2f2f692e696d6775722e636f6d2f467948385946322e706e67'
+  bg_color: '#FFFFFF'
+  tags: ['favorite','projects']
+  
+
   
   

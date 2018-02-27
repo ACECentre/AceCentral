@@ -19,6 +19,11 @@ tag = "project"
 icon = "briefcase"
 
 [[ params.nav ]]
+name = "forms"
+tag = "form"
+icon = "WPForms"
+
+[[ params.nav ]]
 name = "search"
 tag = "search"
 icon = "search"
