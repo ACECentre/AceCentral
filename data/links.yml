@@ -73,5 +73,27 @@ tiles:
   img: 'logos/acesearch.png'
   tags: ['search']
 
-  
+- 
+  name: 'Smile rehab'
+  url: 'https://www.smilesmart-tech.com'
+  img: 'https://www.smilesmart-tech.com/themes/smile/images/logo.png'
+  tags: ['aac']
+- 
+  name: 'Smartbox'
+  url: 'https://thinksmartbox.com'
+  img: 'https://thinksmartbox.com/wp/wp-content/themes/smartbox/images/logo.svg'
+  tags: ['aac']
+
+- 
+  name: 'Liberator'
+  url: 'https://www.liberator.co.uk'
+  img: 'https://www.liberator.co.uk/skin/frontend/default/liberator/images/_website/logo.png'
+  tags: ['aac']
+
+
+
+
+
+
+
   
