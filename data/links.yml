@@ -1,16 +1,16 @@
 tiles:
 -
-  name: 'google'
-  url: 'https://google.com'
-  img: 'logos/google.svg'
-  tags: ['favorite', 'search']
+  name: 'Ace Handbook'
+  url: 'https://paulhewett.gitbooks.io/ace-centre-quality-manual/content/'
+  img: 'logos/handbook.png'
+  tags: ['favorite', 'resources']
 -
-  name: 'bing'
-  url: 'https://bing.com'
-  img: 'logos/bing.svg'
+  name: 'Diigo - Bookmarks'
+  url: 'http://diigo.com/user/acecentre'
+  img: 'logos/diigo.jpg'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
-  tags: ['search']
+  tags: ['search', 'resources']
 -
   name: 'amazon'
   url: 'https://amazon.com'
@@ -39,68 +39,21 @@ tiles:
   txt_color: '#ff5722'
   tags: ['music']
 -
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
+  name: 'twitter'
+  url: 'http://twitter.com/acecentre'
+  img: 'logos/twitter.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
-  tags: ['music']
+  tags: ['social-media']
 
 -
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
+  name: 'facebook'
+  url: 'http://facebook.com/AceCentre.uk/'
+  img: 'logos/facebook.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
-  tags: ['music']
+  tags: ['social-media']
 
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
-
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
-
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
-
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
-
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
-
--
-  name: 'pandora'
-  url: 'https://pandora.com'
-  img: 'logos/pandora.svg'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
-  tags: ['music']
 -
   name: 'Pauls Thoughts'
   url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9FAZD1N0/Slack_posts_better_than_Ace_Central__Discuss_'
