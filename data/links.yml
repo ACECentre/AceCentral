@@ -101,3 +101,12 @@ tiles:
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
+-
+  name: 'Pauls Thoughts'
+  url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9FAZD1N0/Slack_posts_better_than_Ace_Central__Discuss_'
+  img: 'pandora.svg'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['favorite','projects']
+  
+  
