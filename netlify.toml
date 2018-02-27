@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "mkdir content && mkdir static && mkdir layouts && hugo"
+command = "mkdir content && mkdir layouts && hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.37"
