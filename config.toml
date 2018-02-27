@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "AceCentral"
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "bg/b1920-000.jpg",
+  "bg/b1920-001.jpg",
+  "bg/b1920-002.jpg",
+  "bg/b1920-003.jpg",
+  "bg/b1920-004.jpg"
+]
+BackgroundStyle = "#000000;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "AAC Devices"
+tag = "aac"
+icon = "tablet"
+
+[[ params.nav ]]
+name = "Internet resources (bookmarks etc)"
+tag = "resources"
+icon = "book"
+
+[[ params.nav ]]
+name = "social media"
+tag = "social-media"
+icon = "facebook"
