@@ -2,46 +2,46 @@ tiles:
 -
   name: 'google'
   url: 'https://google.com'
-  img: 'google.svg'
+  img: 'logos/google.svg'
   tags: ['favorite', 'search']
 -
   name: 'bing'
   url: 'https://bing.com'
-  img: 'bing.svg'
+  img: 'logos/bing.svg'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['search']
 -
   name: 'amazon'
   url: 'https://amazon.com'
-  img: 'amazon.svg'
+  img: 'logos/amazon.svg'
   bg_color: '#ffffff'
   txt_color: '#ff9900'
   tags: ['favorite', 'shopping']
 -
   name: 'reddit'
   url: 'https://reddit.com'
-  img: 'reddit.svg'
+  img: 'logos/reddit.svg'
   bg_color: '#5f99cf'
   txt_color: '#ffffff'
 -
   name: 'spotify'
   url: 'https://web.spotify.com'
-  img: 'spotify.svg'
+  img: 'logos/spotify.svg'
   bg_color: '#191414'
   txt_color: '#1db954'
   tags: ['favorite', 'music']
 -
   name: 'google music'
   url: 'https://play.google.com/music/listen'
-  img: 'google-music.png'
+  img: 'logos/google-music.png'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
   tags: ['music']
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -49,7 +49,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -57,7 +57,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -65,7 +65,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -73,7 +73,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -81,7 +81,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -89,7 +89,7 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
@@ -97,14 +97,14 @@ tiles:
 -
   name: 'pandora'
   url: 'https://pandora.com'
-  img: 'pandora.svg'
+  img: 'logos/pandora.svg'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['music']
 -
   name: 'Pauls Thoughts'
   url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9FAZD1N0/Slack_posts_better_than_Ace_Central__Discuss_'
-  img: 'slack.png'
+  img: 'logos/slack.png'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['favorite','projects']
