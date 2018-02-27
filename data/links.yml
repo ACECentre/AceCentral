@@ -65,7 +65,7 @@ tiles:
   url: 'http://speakbook.acecentre.net'
   img: 'https://camo.githubusercontent.com/b1d4f6537be7c41053174bedce693707dd863387/68747470733a2f2f692e696d6775722e636f6d2f467948385946322e706e67'
   bg_color: '#FFFFFF'
-  tags: ['projects']
+  tags: ['project']
   
 - 
   name: 'Ace Search'
