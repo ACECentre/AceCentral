@@ -12,33 +12,6 @@ tiles:
   bg_color: '#ffb900'
   tags: ['search', 'resources']
 -
-  name: 'amazon'
-  url: 'https://amazon.com'
-  img: 'logos/amazon.svg'
-  bg_color: '#ffffff'
-  txt_color: '#ff9900'
-  tags: ['favorite', 'shopping']
--
-  name: 'reddit'
-  url: 'https://reddit.com'
-  img: 'logos/reddit.svg'
-  bg_color: '#5f99cf'
-  txt_color: '#ffffff'
--
-  name: 'spotify'
-  url: 'https://web.spotify.com'
-  img: 'logos/spotify.svg'
-  bg_color: '#191414'
-  txt_color: '#1db954'
-  tags: ['favorite', 'music']
--
-  name: 'google music'
-  url: 'https://play.google.com/music/listen'
-  img: 'logos/google-music.png'
-  bg_color: '#ffffff'
-  txt_color: '#ff5722'
-  tags: ['music']
--
   name: 'twitter'
   url: 'http://twitter.com/acecentre'
   img: 'logos/twitter.svg'
@@ -55,11 +28,22 @@ tiles:
   tags: ['social-media']
 
 -
+  name: 'Library Thing'
+  url: 'http://www.librarything.com/catalog/ace-centre'
+  img: 'logos/books.jpg'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['resources']
+-
+  name: 'NHS Service finder'
+  url: 'http://servicefinder.acecentre.net'
+  img: 'logos/servicefinder.jpg'
+  tags: ['favorites','nhs-service']
+
+-
   name: 'Pauls Thoughts'
   url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9FAZD1N0/Slack_posts_better_than_Ace_Central__Discuss_'
   img: 'logos/slack.png'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
   tags: ['favorite','projects']
   
   
