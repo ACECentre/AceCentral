@@ -10,7 +10,7 @@ tiles:
   name: 'Missing something? Add it here'
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSffthJh3CbLou2agZ45dk7m70k_aB1RwBZbpJdi4Lfffx4XcQ/viewform?usp=sf_link'
   img: 'logos/question.jpg'
-  tags: ['favorite','forms']  
+  tags: ['favorite','form']  
 -
   name: 'Diigo - Bookmarks'
   url: 'http://diigo.com/user/acecentre'
