@@ -51,7 +51,7 @@ tiles:
   url: 'http://servicefinder.acecentre.net'
   img: 'logos/servicefinder.jpg'
   bg_color: '#FFFFFF'
-  tags: ['favorite','nhs']
+  tags: ['favorite','nhs','search']
 
 -
   name: 'Pauls Thoughts'
@@ -82,6 +82,7 @@ tiles:
   name: 'Smartbox'
   url: 'https://thinksmartbox.com'
   img: 'https://thinksmartbox.com/wp/wp-content/themes/smartbox/images/logo.svg'
+  bg_color: '#052E54'
   tags: ['aac']
 
 - 
