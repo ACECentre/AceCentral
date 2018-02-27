@@ -3,13 +3,14 @@ tiles:
   name: 'Ace Handbook'
   url: 'https://paulhewett.gitbooks.io/ace-centre-quality-manual/content/'
   img: 'logos/handbook.png'
+  bg_color: '#FFFFFF'
   tags: ['favorite', 'resources']
 -
   name: 'Diigo - Bookmarks'
   url: 'http://diigo.com/user/acecentre'
   img: 'logos/diigo.jpg'
   txt_color: '#ffffff'
-  bg_color: '#ffb900'
+  bg_color: '#215ECA'
   tags: ['search', 'resources']
 -
   name: 'twitter'
@@ -38,12 +39,14 @@ tiles:
   name: 'NHS Service finder'
   url: 'http://servicefinder.acecentre.net'
   img: 'logos/servicefinder.jpg'
+  bg_color: '#FFFFFF'
   tags: ['favorites','nhs-service']
 
 -
   name: 'Pauls Thoughts'
   url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9FAZD1N0/Slack_posts_better_than_Ace_Central__Discuss_'
   img: 'logos/slack.png'
+  bg_color: '#FFFFFF'
   tags: ['favorite','projects']
   
   
