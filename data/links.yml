@@ -51,7 +51,7 @@ tiles:
   url: 'http://servicefinder.acecentre.net'
   img: 'logos/servicefinder.jpg'
   bg_color: '#FFFFFF'
-  tags: ['favorite','nhs-service']
+  tags: ['favorite','nhs']
 
 -
   name: 'Pauls Thoughts'

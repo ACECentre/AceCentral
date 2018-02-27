@@ -24,6 +24,11 @@ tag = "form"
 icon = "WPForms"
 
 [[ params.nav ]]
+name = "NHS service related"
+tag = "nhs"
+icon = "medkit"
+
+[[ params.nav ]]
 name = "search"
 tag = "search"
 icon = "search"
