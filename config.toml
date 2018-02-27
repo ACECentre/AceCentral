@@ -22,6 +22,11 @@ tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
+name = "projects"
+tag = "project"
+icon = "briefcase"
+
+[[ params.nav ]]
 name = "search"
 tag = "search"
 icon = "search"
