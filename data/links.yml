@@ -94,6 +94,12 @@ tiles:
   url: 'http://www.dadinashed.com'
   img: 'http://www.dadinashed.com/wp-content/uploads/pandora/dias_logo_small%20%282%29.png'
   tags: ['aac']
+- 
+  name: 'Feb 18 - Notes on Eye mobile plus'
+  url: 'https://acecentre.slack.com/files/U03EYE3HQ/F9D6XKY80/Eye_Mobile_Plus'
+  img: 'https://www.tobiidynavox.com/globalassets/pictures/devices/eyemobile-plus/tobiidynavox_eyemobileplus-tablet-communicator-7_1920x1080.png'
+  tags: ['aac','how-to']
+
 
 
 
