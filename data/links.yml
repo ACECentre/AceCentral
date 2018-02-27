@@ -67,6 +67,11 @@ tiles:
   bg_color: '#FFFFFF'
   tags: ['projects']
   
+- 
+  name: 'Ace Search'
+  url: 'http://10.0.0.155:8012'
+  img: 'logos/acesearch.png'
+  tags: ['search']
 
   
   
