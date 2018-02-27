@@ -47,3 +47,8 @@ icon = "book"
 name = "social media"
 tag = "social-media"
 icon = "facebook"
+
+[[ params.nav ]]
+name = "Guides and How-tos"
+tag = "how-to"
+icon = "question-circle"
